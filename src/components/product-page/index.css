@@ -1,0 +1,7 @@
+.selected{
+    outline: solid 2px rgb(255, 125, 26);
+}
+
+.not-selected{
+    cursor: pointer;
+}
